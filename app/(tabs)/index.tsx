@@ -1,6 +1,7 @@
 import React from "react";
-import CultureEditor from "../(tabs)/Screens/Edit";
+import Editor from "../(tabs)/Screens/Edit";
+
 
 export default function Index() {
-  return <CultureEditor />;
+  return <Editor />;
 }
